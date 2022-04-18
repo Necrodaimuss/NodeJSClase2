@@ -1,0 +1,11 @@
+{
+  "name": "clase2",
+  "version": "1.0.0",
+  "description": "Segunda Clase de Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Necrodaimus",
+  "license": "ISC"
+}
